@@ -5,13 +5,21 @@
 <summary>第一周主线任务</summary>
 
 - [x] 注册[GitHub](https://github.com/WasteLeser)、ChatGPT账号并成功访问
+
+
     也是成功的学会用Clash Verge科学上网了。再也不用watt toolkit了
+
+
     ![请输入文本](https://github.com/WasteLeser/anoob-sHelloworld/blob/main/43136b27c2074cd9c4d51930e8e3501e.png)
 ---
 - [x] 学习Markdown的写法，重点关注代码块、多级标题、数字/圆点列表、加粗、删除线......
+  
+   
     学习的 ~~非常好~~ 还算可以
+  
+
     `int main(void)`
-    ### 标题
+### 标题
     #### 标题
     - 你好
     **你好**

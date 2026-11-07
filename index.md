@@ -68,8 +68,16 @@ title: aNoob-sHelloworld
 - [x]  学习go的数组、切片，并完成以下任务：
  
      - 给定s := make([]byte, 5)，那么len(s) 和 cap(s) 分别是多少？令s = s[2:4]，len(s) 和 cap(s) 又分别是多少？
+     
+> 回答：len(s) 和 cap(s) 均为5；len(s) 和 cap(s) 分别为2和3
+
+
  
      - 比较字符串"hello，世界"的长度和for range该字符串的循环次数
+
+> 回答：长度如果是len("hello，世界")为14，如果是字符长度则为8，循环该字符串循环8次
+>
+>  `fmt.Println(len("hello，世界"))`
 
   
 

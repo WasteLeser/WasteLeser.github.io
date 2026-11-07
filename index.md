@@ -1,8 +1,6 @@
-
 ---
 layout: default
 title: aNoob-sHelloworld
-
 ---
 
 
@@ -77,4 +75,6 @@ title: aNoob-sHelloworld
 - [ ]  将学习的笔记/代码上传到GitHub，建议新建一个学习仓库，把每周的任务分文件夹上传
 
 </details>
+
+
 

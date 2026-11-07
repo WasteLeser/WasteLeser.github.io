@@ -1,0 +1,9 @@
+title: 皒Dé蕜鬺倪鈽嬞 的博客
+description: 广告位招租
+theme: minima  
+
+# 关键：配置Markdown渲染器
+markdown: kramdown
+kramdown:
+  input: GFM  # 启用GitHub Flavored Markdown，支持表格、删除线等
+  parse_block_html: true  # 允许解析HTML块内的Markdown

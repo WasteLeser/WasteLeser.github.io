@@ -1,7 +1,7 @@
 # aNoob-sHelloworld
 ## 你好[visitor](https://github.com/WasteLeser/anoob-sHelloworld)
 
-<details>
+<details markdown="1">
 <summary>第一周主线任务</summary>
 
 - [x] 注册[GitHub](https://github.com/WasteLeser)、ChatGPT账号并成功访问

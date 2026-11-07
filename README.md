@@ -10,7 +10,7 @@
     也是成功的学会用Clash Verge科学上网了。再也不用watt toolkit了
 
 
-    ![请输入文本](https://github.com/WasteLeser/anoob-sHelloworld/blob/main/43136b27c2074cd9c4d51930e8e3501e.png)
+    ![请输入文本](./43136b27c2074cd9c4d51930e8e3501e.png)
 ---
 - [x] 学习Markdown的写法，重点关注代码块、多级标题、数字/圆点列表、加粗、删除线......
   

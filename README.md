@@ -4,6 +4,8 @@
 
 **readme仅用于记录进度，学习内容将放入[胡乐乐的个人博客](https://wasteleser.github.io/)**
 
+另外：我觉得我个人搭建博客有些简陋，我决定这周后借用一个模板升级我的博客。
+
 <details>
 <summary>第一周主线任务</summary>
 

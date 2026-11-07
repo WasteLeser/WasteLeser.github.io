@@ -4,7 +4,7 @@
 
 **readme仅用于记录进度，学习内容将放入[胡乐乐的个人博客](https://wasteleser.github.io/)**
 
-<details markdown="1">
+<details>
 <summary>第一周主线任务</summary>
 
 - [x] 注册[GitHub](https://github.com/WasteLeser)、ChatGPT账号并成功访问
@@ -28,31 +28,34 @@
 
 - [ ]  将学习的笔记/代码上传到GitHub，建议新建一个学习仓库，把每周的任务分文件夹上传
 
-</summary>
+
+</details>
 
 
 
-<details markdown="1">
+<details>
 <summary>第二周主线任务</summary>
 
 > 请输入文本
 
-</summary>
+
+</details>
 
 
-<details markdown="1">
+<details>
 <summary>第三周主线任务</summary>
 
 > 请输入文本
 
-</summary>
+
+</details>
 
 
-<details markdown="1">
+<details>
 <summary>第四周主线任务</summary>
 
 > 请输入文本
 
-</summary>
 
+</details>
 

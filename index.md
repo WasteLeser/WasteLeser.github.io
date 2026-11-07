@@ -57,7 +57,9 @@ title: aNoob-sHelloworld
 ---
 
 
-- [x] 利用Markdown编写简单的个人博客，并利用github pages部署
+- [x] 利用Markdown编写简单的[个人博客](https://wasteleser.github.io/)，并利用github pages部署
+
+已严肃完成
 
 
 ---
@@ -69,7 +71,12 @@ title: aNoob-sHelloworld
  
      - 比较字符串"hello，世界"的长度和for range该字符串的循环次数
 
+  
+
+  
+
 ---
 
 - [x]  将学习的笔记/代码上传到GitHub，建议新建一个学习仓库，把每周的任务分文件夹上传
 
+已严肃完成

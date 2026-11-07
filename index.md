@@ -6,8 +6,9 @@ title: aNoob-sHelloworld
 
 ## 你好[visitor](https://github.com/WasteLeser/anoob-sHelloworld)
 
-<details markdown="1">
+<details>
 <summary>第一周主线任务</summary>
+<div markdown="1">
 
 
 - [x] 注册[GitHub](https://github.com/WasteLeser)、ChatGPT账号并成功访问
@@ -74,6 +75,8 @@ title: aNoob-sHelloworld
 
 - [ ]  将学习的笔记/代码上传到GitHub，建议新建一个学习仓库，把每周的任务分文件夹上传
 
+
+</div>
 </details>
 
 

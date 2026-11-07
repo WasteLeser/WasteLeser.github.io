@@ -5,11 +5,11 @@ title: aNoob-sHelloworld
 ---
 
 
-# aNoob-sHelloworld
 ## 你好[visitor](https://github.com/WasteLeser/anoob-sHelloworld)
 
 <details>
 <summary>第一周主线任务</summary>
+
 
 - [x] 注册[GitHub](https://github.com/WasteLeser)、ChatGPT账号并成功访问
 
@@ -25,9 +25,15 @@ title: aNoob-sHelloworld
     学习的 ~~非常好~~ 还算可以
   
 
+  
     `int main(void)`
+  
     ### 标题
+ 
+ 
     #### 标题
+  
+    
     - 你好
       
     **你好**
@@ -37,6 +43,7 @@ title: aNoob-sHelloworld
   
     
     >    引用下
+    >
     > `printf("Hello visitor")`
 
     
@@ -46,14 +53,20 @@ title: aNoob-sHelloworld
     | 字符串  | 请输入文本 | 请输入文本 | 广告位招租 |
     
 
+
 ---
+
 
 - [ ] 利用Markdown编写简单的个人博客，并利用github pages部署
 
+
 ---
 
+
 - [ ]  学习go的数组、切片，并完成以下任务：
+ 
      - 给定s := make([]byte, 5)，那么len(s) 和 cap(s) 分别是多少？令s = s[2:4]，len(s) 和 cap(s) 又分别是多少？
+ 
      - 比较字符串"hello，世界"的长度和for range该字符串的循环次数
 
 ---

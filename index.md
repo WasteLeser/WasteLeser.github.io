@@ -59,7 +59,6 @@ title: aNoob-sHelloworld
 
 - [x] 利用Markdown编写简单的[个人博客](https://wasteleser.github.io/)，并利用github pages部署
 
-已严肃完成
 
 
 ---
@@ -78,7 +77,7 @@ title: aNoob-sHelloworld
 
 > 回答：长度如果是len("hello，世界")为14，如果是字符长度则为8，循环该字符串循环8次
 >
->      `fmt.Println(len("hello，世界"))`
+>        fmt.Println(len("hello，世界"))
 
   
 
@@ -88,4 +87,6 @@ title: aNoob-sHelloworld
 
 - [x]  将学习的笔记/代码上传到GitHub，建议新建一个学习仓库，把每周的任务分文件夹上传
 
-已严肃完成
+
+
+扩展学习内容未完全完成

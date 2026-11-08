@@ -15,7 +15,7 @@ title: aNoob-sHelloworld
 也是成功的学会用Clash Verge科学上网了。再也不用watt toolkit了
 
 
-![你好](https://raw.githubusercontent.com/WasteLeser/anoob-sHelloworld/main/43136b27c2074cd9c4d51930e8e3501e.png)
+![你好](https://github.com/WasteLeser/WasteLeser.github.io/blob/main/my_post/Material/43136b27c2074cd9c4d51930e8e3501e.png?raw=true)
 
 ---
 
